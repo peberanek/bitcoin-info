@@ -2,7 +2,7 @@
 
 _Bitcoin je digitální vzácnost_, kterou lze použít například jako peníze.
 
-Pokud se chceš dozvědět co Bitcoin skutečně je a jak funguje, doporučuji:
+Pokud se chceš dozvědět k čemu všemu je Bitcoin dobrý a jak funguje, doporučuji:
 * Bitcoinovej kanál: [Úvod do Bitcoinu](https://www.youtube.com/watch?v=Z92ADb5i42s&list=PLiD1OrtvRy70RQ8k5HH0E3vHQPpEIJJhZ)
 
 Pozor na podvodníky!:
